@@ -2,7 +2,9 @@
 
 #### This project uses Decision Tree algorithm.
 
-Step 1: Install pydotplus and graphviz libraries. Import libraries like datasets, pandas, StringIO, Image, export_graphviz and pydotplus. Load the CSV data file. Store the data and target data into X and y variables respectively.
+Step 1: Install pydotplus and graphviz libraries. Import libraries like datasets, pandas, StringIO, Image, export_graphviz and pydotplus. 
+        Load the CSV data file. 
+        Store the data  and target data into X and y variables respectively.
 
 Step 2: Create a decision tree object and fit the model.
 
